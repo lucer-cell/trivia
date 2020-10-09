@@ -1,0 +1,13 @@
+.right{
+    background:palegreen
+}
+
+.wrong{
+    background: salmon;
+}
+body{
+    background-color: plum;
+}
+button{
+    color: royalblue;
+}
